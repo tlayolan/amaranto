@@ -1,0 +1,42 @@
+{
+"name": "tlayolan",
+"short_name": "amaranto",
+"start_url": "/amaranto.html",
+"display": "standalone",
+"description": "simplemente bonito",
+"lang": "es",
+"dir": "ltr",
+"theme_color": "#2b78b9",
+"background_color": "#000000",
+"orientation": "any",
+"icons": [
+    {
+        "src": "/icons/icon_512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "/icons/icon_192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"screenshots": [
+    {
+        "src": "/screenshots/screen1.png",
+        "sizes": "2880x1800",
+        "type": "image/png",
+        "description": "splashscreen"
+    }
+],
+"prefer_related_applications": "false",
+"shortcuts": [
+    {
+        "name":"amaranto",
+        "url":"/amaranto.html",
+        "description":"simplemente bonito"
+    }
+]
+}
